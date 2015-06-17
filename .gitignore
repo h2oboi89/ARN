@@ -1,0 +1,9 @@
+# User Files
+*.suo
+*.user
+
+# Build Output
+bin/
+obj/
+
+packages/
