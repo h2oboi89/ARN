@@ -71,7 +71,6 @@ namespace AllianceReservationsNetworkTests
         [Test]
         public void ProgrammerTest()
         {
-            // http://www.alliancereservations.com/developer-test.html// http://www.alliancereservations.com/developer-test.html
             var address = CreateAddress();
             var customer = new Customer(FirstName, LastName, address);
             var company = new Company(Name, address);
